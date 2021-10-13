@@ -10,11 +10,18 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "axios": "^0.23.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-query": "^3.26.0",
+    "react-router": "^5.2.1",
     "react-scripts": "4.0.3",
+    "react-tracked": "^1.7.4",
+    "sass": "^1.42.1",
+    "scheduler": "^0.20.2",
     "typescript": "^4.4.4",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "zustand": "^3.5.13"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router": "^5.1.17"
   }
 }
